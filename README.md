@@ -1,4 +1,4 @@
-# Statistics Studies
+# Machine learning studies
 
 
-Nothing much. Just some script and tests taken from the internet and a book I've been reading about Statistics and Probability
+Just some studies on statistics and machine learning taken from a course and some(s) book(s)
