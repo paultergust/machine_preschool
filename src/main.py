@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from gradient_descent import gradient_descent, linear_regression, quadratic_regression
+from gradient_descent import gradient_descent, linear_regression
 
 def plot_graph(xvalues, yvalues, lr):
     plt.scatter(xvalues, yvalues)

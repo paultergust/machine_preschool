@@ -6,10 +6,6 @@ def linear_regression(x, w, b):
     return np.dot(x, w) + b
 
 
-def quadratic_regression(x, w, b):
-    return np.dot((x*2), w) + b
-
-
 # function to calculate the cost
 def compute_cost(x, y, w, b):
 
